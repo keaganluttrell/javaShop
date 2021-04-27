@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="shop.AdminTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-27T04:42:37" hostname="Keagans-MBP" time="0.025">
+  <properties/>
+  <testcase name="testGetters()" classname="shop.AdminTest" time="0.022"/>
+  <testcase name="createANewAdmin()" classname="shop.AdminTest" time="0.001"/>
+  <testcase name="testSetters()" classname="shop.AdminTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
